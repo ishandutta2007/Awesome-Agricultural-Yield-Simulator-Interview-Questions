@@ -4,7 +4,16 @@
 
 # Agricultural Yield Simulator Interview Questions 🌾📊
 
-A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for roles building **crop yield simulation and prediction systems** — combining mechanistic crop growth modeling, remote sensing, weather/climate data, and machine learning to predict and explain agricultural yield. 🌾🚀
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Agricultural-Yield-Simulator-Interview-Questions/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Agricultural-Yield-Simulator-Interview-Questions?style=flat-square" alt="License"/></a><a href="https://github.com/ishandutta2007/Awesome-Agricultural-Yield-Simulator-Interview-Questions/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+</p>
+
+## 🎯 High-Performance Crop Yield Modeling & Simulation Resources
+
+Welcome to the ultimate curated, community-driven collection of interview questions, model answers, frameworks, and explanations for roles building **crop yield simulation, predictive modeling, and agronomic decision-support systems**. 
+
+This repository connects **mechanistic crop growth modeling** (like DSSAT, APSIM, and WOFOST), **remote sensing & earth observation** (MODIS, Landsat, Sentinel, NDVI, LAI), **climate/weather data integration**, and **machine learning/deep learning** to predict, simulate, and explain agricultural yield. 🌾🚀
+
 
 > 📝 **A note on the title:** "Agricultural Yield Simulator" describes the system, not a standardized job title — titles you're more likely to actually see include "Crop Modeling Scientist," "Agricultural Data Scientist," or "Precision Agriculture Engineer" at an agtech company, seed/crop-protection company, or agricultural research institution. Crop simulation modeling itself is a mature, decades-old discipline (process-based crop models predate modern ML by decades), and this repo treats it accordingly.
 
